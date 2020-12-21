@@ -1,8 +1,8 @@
 # spammer
 This is a fun project made using python, that can be used to spam on desktop sites. 
 
-Please note that this is for educational purposes and i DO NOT recommend that you use 
-this to spam someone. Doing so on certain sites could be you into trouble or blocked. 
+Please note that this is for educational purposes and I DO NOT recommend that you use 
+this to spam someone. Doing so on certain sites could get you into trouble or blocked. 
 
 This script requires the pynput python module to be installed. You can read more about the 
 pynput module from the pypi.org site. 
